@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_divyansh_here_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="_divyansh_here_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyanshbhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="divyanshbhowmick" height="30" width="40" /></a>
+<a href="https://twitter.com/_divyansh_here_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="_divyansh_here_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyanshbhowmick" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="divyanshbhowmick" height="30" width="40" /></a>
 <a href="https://codesandbox.com/divyansh.bhowmick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="divyansh.bhowmick" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/divyansh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="divyansh07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/divyansh07" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="divyansh07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
